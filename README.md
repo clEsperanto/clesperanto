@@ -31,7 +31,13 @@ cle
 
 ![img.png](https://github.com/clEsperanto/clesperanto/raw/main/docs/img.png)
 
+You can also pass image files as arguments:
 
+```
+cle https://samples.fiji.sc/blobs.png
+```
+
+![img.png](https://github.com/clEsperanto/clesperanto/raw/main/docs/img1.png)
 
 ## Documentation
 

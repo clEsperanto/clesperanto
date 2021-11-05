@@ -1,0 +1,14 @@
+def clesperanto():
+    import napari
+    from qtpy.QtCore import QTimer
+
+    viewer = napari.Viewer(title="clesperanto - napari")
+
+    viewer.window.add_plugin_dock_widget("napari-mouse-controls", "Mouse Controls")
+
+    def later():
+        viewer.window.add_plugin_dock_widget("clEsperanto", "Assistant")
+
+    QTimer.singleShot(200, later)
+
+    return viewer

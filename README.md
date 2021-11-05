@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/pypi/l/clesperanto.svg?color=green)](https://github.com/haesleinhuepf/clesperanto/raw/main/LICENSE)
 [![Python Version](https://img.shields.io/pypi/pyversions/clesperanto.svg?color=green)](https://python.org)
 
-clesperanto is a graphical user interface for [clEsperanto](http://clesperanto.net) - a multi-platform multi-language framework for GPU-accelerated image processing.
+clesperanto is a graphical user interface for a multi-platform multi-language framework for GPU-accelerated image processing.
 It is based on [napari](https://github.com/napari/napari) and the [pyclesperanto-prototype](https://github.com/clesperanto/pyclesperanto_prototype).
 
 ## Installation
@@ -46,6 +46,8 @@ clesperanto installs multiple napari plugins. Check out their documentation for 
 * [Segment blobs and things with membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
 * [Multi-viewer support](https://www.napari-hub.org/plugins/napari-tabu)
 * [Cropping](https://www.napari-hub.org/plugins/napari-crop)
+
+Also read more details about the [clesperanto-project and mission](http://clesperanto.net).
 
 ## Feedback welcome!
 clesperanto is developed in the open because we believe in the open source community. See our [community guidelines](https://clij.github.io/clij2-docs/community_guidelines). Feel free to drop feedback as [github issue](https://github.com/clEsperanto/pyclesperanto_prototype/issues) or via [image.sc](https://image.sc)

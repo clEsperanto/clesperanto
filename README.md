@@ -29,7 +29,7 @@ You can then start clesperanto from the command line:
 cle
 ```
 
-![img.png](docs/img.png)
+![img.png](https://github.com/clEsperanto/clesperanto/raw/main/docs/img.png)
 
 
 

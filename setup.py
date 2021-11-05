@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="clesperanto",
-    version="0.1.0",
+    version="0.1.1",
     author="Robert Haase",
     author_email="robert.haase@tu-dresden.de",
     description="A graphical user interface for clesperanto based on napari",

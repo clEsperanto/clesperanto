@@ -9,6 +9,6 @@ def clesperanto():
     def later():
         viewer.window.add_plugin_dock_widget("clEsperanto", "Assistant")
 
-    QTimer.singleShot(200, later)
+    QTimer.singleShot(300, later)
 
     return viewer

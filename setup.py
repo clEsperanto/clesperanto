@@ -27,6 +27,7 @@ setuptools.setup(
         "napari-brightness-contrast",
         "napari-mouse-controls",
         "napari-plot-profile",
+        "napari-plugin-search",
         "napari-skimage-regionprops",
         "napari-segment-blobs-and-things-with-membranes",
         "napari-tabu",

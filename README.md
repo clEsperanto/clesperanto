@@ -54,6 +54,7 @@ clesperanto installs multiple napari plugins. Check out their documentation for 
 * [Segment blobs and things with membranes](https://www.napari-hub.org/plugins/napari-segment-blobs-and-things-with-membranes)
 * [Multi-viewer support](https://www.napari-hub.org/plugins/napari-tabu)
 * [Cropping](https://www.napari-hub.org/plugins/napari-crop)
+* [Layer details display](https://www.napari-hub.org/plugins/napari-layer-details-display)
 
 Also read more details about the [clesperanto-project and mission](http://clesperanto.net).
 

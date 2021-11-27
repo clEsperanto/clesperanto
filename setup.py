@@ -31,7 +31,8 @@ setuptools.setup(
         "napari-skimage-regionprops",
         "napari-segment-blobs-and-things-with-membranes",
         "napari-tabu",
-        "napari-crop"
+        "napari-crop",
+        "napari-layer-details-display"
     ],
     python_requires='>=3.6',
     classifiers=[

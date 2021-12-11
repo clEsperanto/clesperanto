@@ -4,8 +4,6 @@ def clesperanto():
 
     viewer = napari.Viewer(title="clesperanto - napari")
 
-    viewer.window.add_plugin_dock_widget("Search (Plugin)", "Plugin Search")
-
     viewer.window.add_plugin_dock_widget("napari-mouse-controls", "Mouse Controls")
 
 
